@@ -19,4 +19,7 @@ The user should then see a new README.md file in the same directory they are cur
 ## Walkthrough of README Generator
 Below is a video of a user invoking the application, inputting information to each prompt and viewing the generated README file to check that all formatting is correct with functional links.
 
+https://user-images.githubusercontent.com/112632434/207702992-d740f335-3bf9-41b8-82b7-e554a57d67e4.mp4
+
+
 
