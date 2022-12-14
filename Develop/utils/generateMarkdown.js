@@ -75,7 +75,7 @@ ${data.contribution}\n
 ${data.test}\n
 
 ## Questions\n
-Click on my GitHub username to view my profile: ${data.github} - https.//github.com/${data.github}\n
+Click on my GitHub username to view my profile: [${data.github}](https://github.com/${data.github})\n
 If you would like to reach me with additional questions email me at: ${data.email}\n
 `;
 }
